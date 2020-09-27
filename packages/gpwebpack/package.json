@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "module-1": "^0.0.0"
-  }
+  },
+  "gitHead": "c7f432391fd1972a79092de35ddbed620f39bca7"
 }
